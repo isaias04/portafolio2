@@ -387,7 +387,7 @@
             </p>
             <hr style="height:1px;border:none;color:black;background-color:black;" />
             <a href= "https://github.com/isaias04/Practicas-de-progra.git"
-            class="btn btn-primary stretched-link">practicas</a>
+            class="btn btn-primary stretched-link">PRACTICAS</a>
           </div>
         </div>
       </div>
