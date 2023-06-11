@@ -30,7 +30,11 @@
 }
 
 .heading3 {
-  color: #e9e8e7;
+  color: #2e1a05;
+  @apply md:text-5xl text-xl font-bold font-work_sans tracking-wide;
+}
+.heading5 {
+  color: #e6e2dd;
   @apply md:text-5xl text-xl font-bold font-work_sans tracking-wide;
 }
 .heading4 {

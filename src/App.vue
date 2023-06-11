@@ -294,29 +294,130 @@
       </div>
     </div>
   </div>
-    </div>
-    <div class="card mb-3" style="max-width: 1500px;">
+  <div class="card mb-3" style="max-width: 1500px;">
     <div class="row g-0">
       <div class="col-md-4">
-        <img src="https://camo.githubusercontent.com/076c743a5e6367ad862e829dff81afae9f09433330b3f02bdd35f15e18e8c314/68747470733a2f2f692e696d6775722e636f6d2f5a6b6d6a4936512e706e67" class="img-fluid rounded-start" alt="700">
+        <img src="https://ikastaroak.ulhi.net/edu/es/DAW/DWES/DWES06/es_DAW_DWES06_Contenidos/dwes06_02.PNG" class="img-fluid rounded-start" alt="700">
       </div>
       <div class="col-md-8">
         <div class="card-body">
-          <h5 class="card-title">Loops, array y funciones</h5>
-          <p class="card-text"> Un bucle en PHP se usa para ejecutar una declaración o un bloque
-          de declaraciones, varias veces hasta que se cumpla una condición
-          específica. los arrays o matrises mejor conocido como matrises nos permite almacenar
-          multiples elementos similares en una sola variable y una funcion en php es un bloque o piesa de codigo 
-          reutilizable que realiza una accion especifica
+          <h5 class="card-title">Rutas y controladores</h5>
+          <p class="card-text">Las rutas y los controladores en laravel son escencial ya que con ellos es con lo que mas se suele trabajar en un 
+            proyecto de laravel, la ruta nos ayuda a programar las funcionabilidades que le damos a nuestro sistema desde el controlador.
           </p>
           <hr style="height:1px;border:none;color:black;background-color:black;" />
-          <a href= "https://drive.google.com/file/d/1YKXgMHmzJpf0TgTFQ5G3yKLr2KgoHUhH/view?usp=sharing"
+          <a href= "https://drive.google.com/file/d/11eoDu95Yp2Vu6GdOgNku_jxrh3jO3Un9/view?usp=sharing"
           class="btn btn-primary stretched-link">Contenido</a>
-          <p class="card-text"><small class="text-muted">Semana 8 del 06 al 12 de marzo</small></p>
+          <p class="card-text"><small class="text-muted">Semana 14 del 24 al 30 de abril</small></p>
         </div>
       </div>
     </div>
   </div>
+  <div class="card mb-3" style="max-width: 1500px;">
+    <div class="row g-0">
+      <div class="col-md-4">
+        <img src="https://www.perucontable.com/excelcontable/wp-content/uploads/2021/05/image-52.png" class="img-fluid rounded-start" alt="700">
+      </div>
+      <div class="col-md-8">
+        <div class="card-body">
+          <h5 class="card-title">Validaciones</h5>
+          <p class="card-text">Existen varias formas de validar una aplicación para mayor segura unas de ellas pueden ser 
+            validar del lado del cliente, validar a nivel de base de datos y migracion de formularios. 
+          </p>
+          <hr style="height:1px;border:none;color:black;background-color:black;" />
+          <a href= "https://www.astera.com/wp-content/uploads/2020/01/rest.png"
+          class="btn btn-primary stretched-link">Contenido</a>
+          <p class="card-text"><small class="text-muted">Semana 15 del 02 al 07 de mayo</small></p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="card mb-3" style="max-width: 1500px;">
+    <div class="row g-0">
+      <div class="col-md-4">
+        <img src="https://www.astera.com/wp-content/uploads/2020/01/rest.png" class="img-fluid rounded-start" alt="700">
+      </div>
+      <div class="col-md-8">
+        <div class="card-body">
+          <h5 class="card-title">APIREST con laravel</h5>
+          <p class="card-text">Una apirest en laravel nos es una plantilla que nos facilita para trabajar del lado del servidor 
+            o el backend, esto quiere decir podemos trabajar toda la parte interna de la aplicacion desde ahi, y 
+            facilitar al frontend poder programar la interfas para el cliente.
+          </p>
+          <hr style="height:1px;border:none;color:black;background-color:black;" />
+          <a href= "https://drive.google.com/file/d/1rGXgQZ5ys11oIp-yM2KqKZ59Hp_sYJSL/view?usp=sharing"
+          class="btn btn-primary stretched-link">Contenido</a>
+          <p class="card-text"><small class="text-muted">Semana 16 del 08 al 14 de mayo</small></p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="card mb-3" style="max-width: 1500px;">
+    <div class="row g-0">
+      <div class="col-md-4">
+        <img src="https://i.ytimg.com/vi/-mN3VyJuCjM/maxresdefault.jpg" class="img-fluid rounded-start" alt="700">
+      </div>
+      <div class="col-md-8">
+        <div class="card-body">
+          <h5 class="card-title">Autentificación con API REST</h5>
+          <p class="card-text">En laravel podemos tambien autentificar en una Api rest, esto nos  ayuda a poder mantener 
+            una aplicacion mas segura.
+            La implementación de una capa de autenticación puede ser útil para proteger información confidencial y
+garantizar que solo los usuarios autorizados tengan acceso a los recursos protegidos.
+          </p>
+          <hr style="height:1px;border:none;color:black;background-color:black;" />
+          <a href= "https://drive.google.com/file/d/1rJXv95RbFZvnNyIuszGP5NA8pYdRzcUp/view?usp=sharing"
+          class="btn btn-primary stretched-link">Contenido</a>
+          <p class="card-text"><small class="text-muted">Semana 17 del 15 al 21 de mayo</small></p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="card mb-3" style="max-width: 1500px;">
+    <div class="row g-0">
+      <div class="col-md-4">
+        <img src="https://images.ctfassets.net/vwq10xzbe6iz/5sBH4Agl614xM7exeLsTo7/9e84dce01735f155911e611c42c9793f/rest-api.png" class="img-fluid rounded-start" alt="700">
+      </div>
+      <div class="col-md-8">
+        <div class="card-body">
+          <h5 class="card-title">Consumo de API REST</h5>
+          <p class="card-text"> (REST) es un estilo arquitectónico para compilar servicios web.
+Normalmente, las solicitudes REST se realizan a través de HTTPS con los mismos verbos HTTP que los
+exploradores web usan para recuperar páginas web y enviar datos a servidores.
+            
+          </p>
+          <hr style="height:1px;border:none;color:black;background-color:black;" />
+          <a href= "https://drive.google.com/file/d/1rUk8LAQLqb14uY3jzTjcFMhXAel-21p3/view?usp=sharing"
+          class="btn btn-primary stretched-link">Contenido</a>
+          <p class="card-text"><small class="text-muted">Semana 18 del 22 al 28 de mayo</small></p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="card mb-3" style="max-width: 1500px;">
+    <div class="row g-0">
+      <div class="col-md-4">
+        <img src="https://img.freepik.com/vector-gratis/diseno-plantilla-pagina-inicio-sesion-usuario-sitio-web_1017-30786.jpg?w=2000" class="img-fluid rounded-start" alt="700">
+      </div>
+      <div class="col-md-8">
+        <div class="card-body">
+          <h5 class="card-title">Autenticacion Login</h5>
+          <p class="card-text">Para la autenticación nos ayuda a dar los parametros que le damos a nuestra login 
+            para que el usuario pueda registrase eh iniciar sección, larevel con la libreria socialite nos permite poder 
+            iniciar seccion con facebook, Twitter, tiktok o cualquier otra red social. 
+            con facebook podemos hacer uso de esta libreria utilizando Facebook developers y desde ahi crear una nueva aplicacion 
+            para asi poder iniciar secion en laravel utilizando nuestra cuenta de facebook.
+          </p>
+          <hr style="height:1px;border:none;color:black;background-color:black;" />
+          <a href= "https://drive.google.com/file/d/11kYvQ3JYgA0fND9D-D5c2yatI0EAtZiC/view?usp=sharing"
+          class="btn btn-primary stretched-link">Contenido</a>
+          <p class="card-text"><small class="text-muted">Semana 19 del 29 de mayo al 4 de junio</small></p>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+
 
   <div class="banner-1" id="apuntes">
     <div class="space-y-4 grid place-items-center mt-5">
@@ -338,7 +439,7 @@
       alt="user image"
     />
     <div class="space-y-5 py-8 px-8 md:py-16 md:px-20 md:w-1/2">
-      <h4 class="heading3 my-5" >Conocimientos</h4>
+      <h4 class="heading5 my-5" >Conocimientos</h4>
       <p class="heading4 font-work_sans ">
         Los contenidos que hasta el momento han sido impartidos he aprendido el uso basico de 
         JavaScript, Html5, y Bootstra haciendo uso del Frenwork de Vue js 3, de la misma forma hemos aprendido 
@@ -359,7 +460,7 @@
         alt="user image"
       />
       <div class="space-y-5 py-8 px-8 md:py-16 md:px-20 md:w-1/2">
-        <h4 class="heading3 my-5" >Conocimientos computo 2</h4>
+        <h4 class="heading5 my-5" >Conocimientos computo 2</h4>
         <p class="heading4 font-work_sans ">
           Los contenidos que que hemos visto este computo a sido interesante ya que hemos conocido el lenguaje de php a fondo 
           la forma de trabajar con facilidad es usando el frenwork de Laravel, ya que es el que se acomoda mejor para trabajar con dicho lenguaje.
@@ -373,7 +474,21 @@
         <div>
       </div>
       </div>
+      <div class="space-y-5 py-8 px-8 md:py-16 md:px-20 md:w-1/2">
+        <h4 class="heading5 my-5" >Conocimientos computo 3</h4>
+        <p class="heading4 font-work_sans ">
+          Segun lo aprendido en el computo tres pudimos conocer más a profundida la funcionabilidad del 
+          frenwork de laravel, haciendo uso de las Apis, como tambien poder dar inicio de seccion en nuestra app desde 
+          cualquier red social haciendo uso de las librerias que nos proporcionan tal es el caso de socilaite.
+          <br />
+          el trabajo en equipo nos ha facilitado por desarrollar nuestras habilidades en el uso y manero del 
+          frenwork de Larevel como tambien la integracion de Vuejs para poder trabajar el frontend.
+        </p>
+        <div>
+      </div>
+      </div>
     </div>
+    
     <div class="card mb-3" style="max-width: 1500px;" id="practicas">
       <div class="row g-0">
         <div class="col-md-4">
